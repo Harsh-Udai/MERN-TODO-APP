@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+.Main{
+    background-color: #E93B81;
+    width: 100vw;
+    height: 100vh;
+}
+.center_box{
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+   
+}
+.containment{
+    width: 60vw;
+    height: 80vh;
+    background-color: #1B2021;
+    color:white;
+    display: flex;
+    border-radius: 5px;
+}
+.button{
+    background-color: #1B2021;
+    color:white;
+    border: none;
+    
+    padding: 5px;
+    font-size: larger;
+    font-family: 'Quicksand', sans-serif;
+}
+.button:hover{
+    cursor: pointer;
+    /* background-color:#1C2833 */
+}
+.create_name{
+    margin-top: 10px;
+    flex: 3;
+    text-align: center;
+    
+}
+.create_name_1{
+    margin-top: 10px;
+    flex:5;
+    text-align: center;
+}
+.button1{
+    background-color: #1B2021;
+    color:white;
+    border: none;
+    padding: 5px;
+    font-size: larger;
+    font-family: 'Quicksand', sans-serif;
+}
+.cardMAKE{
+    display: flex;
+    justify-content: center;
+    flex-direction: column-reverse;
+    margin-left: 40px;
+    margin-top: 50px;
+    
+    height: 450px;
+    padding-bottom: 20px;
+}
+.text{
+    font-size: 300%;
+    padding: 40px;
+}
+.error{
+    font-family: 'Quicksand', sans-serif;
+    font-size: larger;
+}

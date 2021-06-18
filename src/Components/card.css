@@ -1,0 +1,27 @@
+.tiles{
+    width: 90%;
+    height: 70px;
+    background-color: #343A40;
+    border-radius: 7px;
+    
+}
+.viewD{
+    display: flex;
+    justify-content:flex-end;
+    margin-top: -16.2px;
+}
+.button_D{
+    background-color: #343A40;
+    color: white;
+    border: none;
+    font-family: 'Quicksand', sans-serif;
+    cursor: pointer;
+    font-size: 90%;
+    padding: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+.button_D:hover{
+    background-color: #1B2021;
+}

@@ -1,0 +1,25 @@
+.text_area{
+    margin-top: 20px;
+}
+.text_areaMod{
+    background-color: #343A40;
+    color:white;
+    font-size: 160%;
+    outline: none;
+    border: none;
+    padding: 10px;
+    font-family: 'Quicksand', sans-serif;
+    border-radius: 7px;
+}
+.button_text{
+    margin-top: 17px;
+    width: 100px;
+    font-size: larger;
+    font-family: 'Quicksand', sans-serif;
+    background-color: #343A40;
+    color:white;
+    border: none;
+    padding-bottom: 5px;
+    border-radius: 25px;
+    cursor: pointer;
+}
